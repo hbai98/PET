@@ -1,0 +1,64 @@
+ Image (00000234164069B0)
+  RTTI typeinfo:   class itk::Image<float,3>
+  Reference Count: 1
+  Modified Time: 1166
+  Debug: Off
+  Object Name: 
+  Observers: 
+    none
+  Source: (none)
+  Source output name: (none)
+  Release Data: Off
+  Data Released: False
+  Global Release Data: Off
+  PipelineMTime: 1143
+  UpdateMTime: 1165
+  RealTimeStamp: 0 seconds 
+  LargestPossibleRegion: 
+    Dimension: 3
+    Index: [0, 0, 0]
+    Size: [79, 95, 79]
+  BufferedRegion: 
+    Dimension: 3
+    Index: [0, 0, 0]
+    Size: [79, 95, 79]
+  RequestedRegion: 
+    Dimension: 3
+    Index: [0, 0, 0]
+    Size: [79, 95, 79]
+  Spacing: [2, 2, 2]
+  Origin: [-78, 112, -70]
+  Direction: 
+1 0 0
+0 -1 0
+0 0 1
+
+  IndexToPointMatrix: 
+2 0 0
+0 -2 0
+0 0 2
+
+  PointToIndexMatrix: 
+0.5 0 0
+0 -0.5 0
+0 0 0.5
+
+  Inverse Direction: 
+1 0 0
+0 -1 0
+0 0 1
+
+  PixelContainer: 
+    ImportImageContainer (0000023418394960)
+      RTTI typeinfo:   class itk::ImportImageContainer<unsigned __int64,float>
+      Reference Count: 1
+      Modified Time: 1162
+      Debug: Off
+      Object Name: 
+      Observers: 
+        none
+      Pointer: 0000023419734040
+      Container manages memory: true
+      Size: 592895
+      Capacity: 592895
+
